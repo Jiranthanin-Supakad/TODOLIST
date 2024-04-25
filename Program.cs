@@ -58,6 +58,8 @@ class Program
                 todoList.ForEach(i => Console.WriteLine($"{i.Title,-15} {i.Description,-20} {i.DueDate}"));
 
             }
+
+            
             // command "remove" by Guid
             else if (command.StartsWith("remove"))
             {

@@ -12,3 +12,4 @@
 /Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.pdb
 /Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.genruntimeconfig.cache
 /Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ref/ConsoleAppDemo.dll
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.sourcelink.json
