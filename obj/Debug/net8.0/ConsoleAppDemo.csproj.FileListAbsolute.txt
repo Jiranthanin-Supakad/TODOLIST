@@ -1,0 +1,14 @@
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.AssemblyInfoInputs.cache
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.AssemblyInfo.cs
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.csproj.CoreCompileInputs.cache
+/Users/jiran/Documents/C#/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo
+/Users/jiran/Documents/C#/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.deps.json
+/Users/jiran/Documents/C#/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.runtimeconfig.json
+/Users/jiran/Documents/C#/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.dll
+/Users/jiran/Documents/C#/ConsoleAppDemo/bin/Debug/net8.0/ConsoleAppDemo.pdb
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.dll
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/refint/ConsoleAppDemo.dll
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.pdb
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ConsoleAppDemo.genruntimeconfig.cache
+/Users/jiran/Documents/C#/ConsoleAppDemo/obj/Debug/net8.0/ref/ConsoleAppDemo.dll
