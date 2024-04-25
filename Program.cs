@@ -111,7 +111,7 @@ class Program
 
                 if (!found)
                 {
-                    Console.WriteLine($"No todo entries found with title '{todoParams[1]}'."); 
+                    Console.WriteLine($"No todo Title found with title '{todoParams[1]}'."); 
                 }
             }
 
